@@ -31,7 +31,6 @@ The dataset is a **multivariate clinical dataset** containing **14 attributes**:
 
 - **Data preprocessing** involves handling missing values through mean/median imputation for numerical features and mode imputation for categorical features, binary conversion of the target variable, and standard scaling
 - **Logistic Regression and SVM classifiers** are trained and evaluated using an 80-20 train-test split with stratified sampling
-- **Hyperparameter tuning** via Grid Search is conducted for SVM to optimize model parameters
 - **Principal Component Analysis (PCA)** reduces feature dimensionality for visualization of model decision boundaries
 - **Performance metrics** include precision, recall, F1-score, and accuracy, with comparisons visualized through evaluation charts
 
