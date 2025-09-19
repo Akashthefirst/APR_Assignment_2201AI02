@@ -83,24 +83,10 @@ The dataset is a **multivariate clinical dataset** containing **14 attributes**:
 - **PCA effectively visualizes** the decision boundary and data patterns in reduced dimensional space
 - **Performance comparison charts** provide intuitive insights on model strengths and classification capabilities
 
-## 🔮 Future Work
-
-- [ ] Advanced feature engineering techniques
-- [ ] Ensemble methods (Random Forest, XGBoost)
-- [ ] Hyperparameter optimization
-- [ ] Cross-validation analysis
-- [ ] Explainable AI techniques (SHAP, LIME)
-- [ ] Integration with clinical decision support systems
-- [ ] Real-time prediction pipeline
-
 ## 👨‍💻 Author
 
 **Akash Sinha** (2201AI02)  
 *September 19, 2025*
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
